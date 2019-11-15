@@ -1,0 +1,36 @@
+/* Header */
+/* Body */
+html {
+  background: url("graffiti.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: whitesmoke;
+}
+
+h6 {
+  display: inline;
+}
+
+/* Header */
+/* Body */
+h1,
+html {
+  background: url("graffiti.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: whitesmoke;
+  font-size: 50px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+audio {
+  width: 600px;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+  border-radius: 90px;
+  transform: scale(1.05);
+  margin: 10px;
+}
